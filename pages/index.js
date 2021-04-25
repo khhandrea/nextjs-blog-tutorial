@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Welcome to my homepage..!</p>
+        <p>Welcome to my homepage..! I'm so glad to show my first homepage with next.js. I think next.js is awesome framework for React.</p>
         <p>
           This is a sample website. Read{' '}
           <Link href="https://nextjs.org/learn">
@@ -33,11 +33,11 @@ export default function Home({ allPostsData }) {
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
-              {title}
+              Title:{' '}{title}
               <br />
-              {id}
+              Id:{' '}{id}
               <br />
-              {date}
+              Date:{' '}{date}
             </li>
           ))}
         </ul>
