@@ -21,13 +21,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Welcome to my homepage..! I'm so glad to show my first homepage with next.js. I think next.js is awesome framework for React.</p>
-        <p>
-          This is a sample website. Read{' '}
-          <Link href="https://nextjs.org/learn">
-            <a>our Next.js tutorial</a>
-          </Link>
-        </p>
+        <p>사상의 자유를 존중합니다. 세상의 다양한 소설을 연재합니다.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>

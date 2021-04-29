@@ -1,11 +1,40 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: '교수가 뭐라고 자기 임용경험담 가지고 쪼냐?'
 date: '2020-01-01'
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+본인은 정출연에서 근무하는 아직 졸업한지 몇년 안된 신진박사다.
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
+박사따고 교수되는 비율이 5%미만인건 다들 알텐데,그 좁디좁은 시장에서 spk가 0점이니, 그 이하는 마이너스니 뭐니 하는 소리듣고
 
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+spk 아니면 나가죽어야되나 이렇게 결론이 나냐?
+
+
+
+교수가 안되더라도 충분히 길은 많이 있음
+
+정출연만 하더라도 이런대학이? 라고 하는데서도 정규직으로 오는 분들 계시다.
+
+그리고 정출연에서 학교(비명문대, 즉 spkyk ssh udg 아님)랑 같이 공동연구 하면서 알게 되는 학생들중에 굉장히 뽑고싶어 하는 친구들도 많은다. 
+
+특히 뽑고싶어하는 학생있으면 아예 그 학생 졸업시기에 채용 직무기술서를 그 학생에 맞게 작성하는 경우도 있다. 
+
+최소 내가 근무하고 있는 정출연에서는 꼰대마인드가진 임원들은 임원면접에서 학벌가지고 언짢아할진 몰라도,
+
+최소 실무자들선에선 학벌이고 나발이고 지금 하고 있는 연구를 가장 잘 이해해서 같이 진행시킬수 있는 '전공적합도'가 맞는 친구를 최우선으로 생각하고,
+
+그 이후로 그 전공에서 얼마나 주도적으로 연구를 했는지 (논문실적과 과제실적)을 두번째로 생각한다.
+
+우리 분야가 좁아서 그런진 모르겠지만, 한국에 전공하는 연구실이 많이 없어서 전공만 맞고 어느정도 실적만 낼수 있으면 진짜 대대댕큐다. 
+
+
+
+그리고 정출연박사 아닌 삶도 행복하다.
+
+정출연 선배들 가운데 퇴사하고 다시 기업으로 가시는 분도 봤고, 학계를 떠나 아예 다른일을 하시는 분도 봤다. 다들 행복하게 잘 살고 계시는거 같다. 지잡대 박사 나와서도 밴처회사 키우면서 억대연봉 버는 분도 계신다. 
+
+
+
+제발 교수라는 좁고좁은 시장에서의 경험담만 듣고 주눅들지 마라.
+
+박사즘 땃으면 정출연이든 기업이든, 아님 다른 분야에서든 길은 많고 본인이 열심히하고 실력발휘만 잘 하면 어떻게든 행복하게 살수 있더라.

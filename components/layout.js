@@ -4,8 +4,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'KHH'
-export const siteTitle = 'Next.js Sample Website'
+const name = '노벨피디아'
+export const siteTitle = 'Novel pedia'
 
 export default function Layout({ children, home }) {
   return (

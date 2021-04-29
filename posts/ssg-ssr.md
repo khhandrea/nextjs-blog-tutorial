@@ -1,19 +1,32 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: '아지르 하지 않습니다.'
 date: '2020-01-02'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+이건 인정할거임. 
 
-You can use Static Generation for many types of pages, including:
+아지르 스킬셋만큼은 롤 전체 챔에서 탑에 들 정도로 사기적임. 
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+지속딜 순간폭딜 견제 한타 도주 이니쉬 등등 못하는게 없으며 심지어 패시브로 라인 커버 및 뒤치기 견제까지 가능함. 
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
+얘가 5티어인 이유는 좆같은 스텟때문임.
 
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
+국민콤보 w평q평 박고 감전까지 터트린다 해도 상대가 스킬 몇번 맞추면 피 똑같아지는게 현실. 
 
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+게다가 이 미친 챔은 스킬 데미지 비례 소모하는 마나가 너무 많아서 조금만 딜교해도 마나가 쭉 빠져버리기에 초반 라인전부터 확실하게 이득을 봐야됨. 
+
+그마저도 상대가 갱 와서 weq로 빼면 마나가 170이 쭉 까임. 
+
+스킬을 많이 쓰는 챔피언이 스킬을 많이 못 쓴다는건 너무 큰 단점. 
+
+게다가 이놈은 심각한 물몸 중 하나임. 
+
+원거리 딜러형 ap메이지이기에 체력템 올리는것부터가 좀 트롤짓처럼 보일 수 있는 것도 있지만 그냥 몸이 너무 약해. 
+
+상대방이랑 로밍가는중에 마주치면 일단 손해보는게 아지르임.
+
+정리하자면 얘는 스킬이 아니라 스탯이 졷구려서 5티어인거다. 
+
+
+
+그니까 버프좀 해줘 제발 솔킬 세번 따고 합류도 열심히 해서 미드차이냈는데 암살자 하나때문에 손도 못쓰고 지는 건 좀 아니잖아
